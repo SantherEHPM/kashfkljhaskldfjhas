@@ -1,0 +1,29 @@
+.container{
+    width: 600px;
+    height: auto;
+}
+.img{
+    width: 70%;
+    image-rendering:pixelated;
+    align-self:baseline;
+    height: 70%;
+}
+#primal{
+    border: 2px solid green;
+}
+body{
+    background-color: #e9e4d6;
+    color: #47412E;
+}
+.sec{
+    width: 600;
+    text-align: justify;
+}
+pre{
+    width: 10px;
+}
+code{
+    width: 10px;
+}
+
+
